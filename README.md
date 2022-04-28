@@ -34,6 +34,10 @@ Foi utilizada a ferramenta de testes (exclusiva para acessibilidade) da W3:
    • Foram retiradas todas as estilizações (style) internas que estavam no index.html
    
    <br>
+
+   • Uso do v-libras para adaptação do site.
+   
+   <br>
   
    • Aprimoramento do controle de UI (o botão tab pode ser utilizado para navegação entre os itens clicaveis)
    

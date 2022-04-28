@@ -63,3 +63,9 @@ Foi utilizada a ferramenta de testes (exclusiva para acessibilidade) da W3:
    
    
    ![checagem-html](https://user-images.githubusercontent.com/91956493/165672433-873fbcbb-7e6e-4c19-879e-4c89c1c52928.jpeg)
+   
+   <br>
+   <br>
+   
+   
+![final](https://user-images.githubusercontent.com/91956493/165675678-4b064fde-490d-4648-a56a-6fb22eb603c6.jpeg)
